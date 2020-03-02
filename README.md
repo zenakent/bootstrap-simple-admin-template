@@ -7,7 +7,7 @@
 - Added Full Calendar plugin
 - Added WYSIWYG Text Editor plugin
 - New user & roles management page
-- New change user permissions page
+- New user permissions page
 - New settings page
 
 ### Layout features
